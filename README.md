@@ -1,6 +1,8 @@
 # Adaptive Prompt Optimizer
 
 A tool that optimizes prompts for specific AI coding tools (Copilot, Cursor, Replit) using OpenAI GPT-3.5 Turbo and LangChain.
+![image](https://github.com/user-attachments/assets/e3e99322-705b-4964-bd3f-60869e7c80e6)
+![image](https://github.com/user-attachments/assets/1d901ba4-069e-4b7a-a7b8-68865bc7778e)
 
 ## Features
 
